@@ -1,4 +1,8 @@
 tekst
  teraz robie poprawki
  
- teraz commit do branha
+ teraz 
+ 
+ inne zmiany
+ 
+ inna zmiana
